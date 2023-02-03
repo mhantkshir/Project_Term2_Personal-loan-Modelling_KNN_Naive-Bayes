@@ -20,6 +20,11 @@ Bank is also targeting customers who have not taken any loans but having banking
 
 Looking after below par response to the campaign bank wanted to analyse key factors to improve personal loan business and make this campaign successful. 
 
+- Distribution of target variable
+
+![image](https://user-images.githubusercontent.com/106458239/216603714-a928eac4-bfe4-4dc9-872f-a8860bfabe18.png)
+
+
 > Scores achieved using KNN algoritham(Default Param)
 
 - Train_score 0.9597333333333333
